@@ -1,4 +1,5 @@
-cop avocados
+#Steps
+chop avocados
 chop onion
 chop chili
 squeeze lime
